@@ -1,2 +1,2 @@
 hola, este es mi 1er commit desde lubuntu
-este cambio se hizo directamente en github 
+este cambio se hizo directamente en GITHUB 
